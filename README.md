@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Universe!;%F0%9F%9B%A1%EF%B8%8F+Breaking+things+in+the+lab+%F0%9F%94%AC;%F0%9F%8C%90+Building+things+for+the+web+%F0%9F%9A%80;%E2%9A%94%EF%B8%8F+Learn.+Break.+Protect.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Universe!;%F0%9F%9B%A1%EF%B8%8F+I+break+things+in+the+lab+%F0%9F%94%AC;%F0%9F%8C%90+So+I+can+protect+them+in+the+real+world+%F0%9F%9A%80;%E2%9A%94%EF%B8%8F+Learn.+Break.+Protect.+Repeat." alt="Typing SVG" />
 
 <br/>
 
@@ -12,23 +12,26 @@
 <a href="https://x.com/DineshMaur60423"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:dm7178072@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
+<img src="https://komarev.com/ghpvc/?username=dm2123&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
 </div>
 
 ---
 
 ### 🛡️ About Me
 
-<img align="right" src="https://github.com/dm2123.png" width="120" style="border-radius:50%" alt="Dinesh Singh"/>
+```yaml
+name: Dinesh Singh
+education: BCA 2nd Year @ WCTM, Gurugram
+focus: [Cybersecurity, Web Development]
+currently_learning: [Python, JavaScript, AI-assisted Development]
+labs: [Kali Linux, Networking, Ethical Hacking Training]
+fun_fact: "I run AI models on my phone via Termux 📱"
+mission: "Cybercrime volunteer → Security professional"
+```
 
-- 🎓 **BCA 2nd Year** @ World College of Technology and Management, Gurugram
-- 🔐 Cybersecurity learner — Kali Linux, networking & ethical hacking **training** (lab-only, always legal ✅)
-- 💻 I build websites & tools — from animated 3D sites to search engines
-- 🌱 Currently learning: **Python** · **JavaScript** · **AI-assisted development**
-- 🎯 Mission: Cybercrime volunteer → Security professional
-- ⚡ Fun fact: I run AI models on my **phone via Termux** 📱
-- 🏆 MSA Registered Member · I4C Volunteer (applied)
-
-<br clear="right"/>
+- 🏆 **MSA Registered Member** · I4C Volunteer (applied)
+- ⚖️ I hack only in the lab — always legal, always ethical ✅
 
 ---
 
@@ -43,6 +46,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains"/>
 </p>
 
 ---
@@ -50,20 +54,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dm2123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dm2123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dm2123&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm2123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dm2123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dm2123&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -93,26 +89,24 @@
 
 ---
 
+### 💡 Daily Fuel
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Programmer Joke"/>
+</div>
+
+---
+
 ### 🤝 Let's Connect & Build!
 
 <div align="center">
 
 *💬 Open to collaborations, internships & cybersecurity discussions!*
 
-<img src="https://komarev.com/ghpvc/?username=dm2123&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dm2123/dm2123/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00D4FF&height=140&section=footer" width="100%" alt="Footer"/>
-
-<div align="center">
-
 *⚔️ "First learn to break it in the lab — then learn to protect it in the real world."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00D4FF&height=140&section=footer" width="100%" alt="Footer"/>
